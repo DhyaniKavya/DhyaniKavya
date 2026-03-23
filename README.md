@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on:<br>Building scalable open-source features and contributing actively to GSoC-focused projects, with a focus on clean architecture and performance.<br><br>👯 I’m looking to collaborate on:<br>Open-source projects, especially those related to web development, developer tools, and impactful real-world applications.<br><br>🤝 I’m looking for help with:<br>Advanced system design, writing strong technical proposals, and improving code quality for large-scale projects.<br><br>🌱 I’m currently learning:<br>System design, advanced JavaScript concepts, and best practices in open-source contribution workflows.<br><br>💬 Ask me about:<br>Open source, GitHub contributions, GSoC preparation, and building consistent developer habits.
 
 
